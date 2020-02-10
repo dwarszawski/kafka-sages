@@ -23,7 +23,7 @@
     </build>
     <modules>
         <module>1-kafka-java</module>
-        <!--module>2-kafka-java-advanced</module-->
+        <module>2-kafka-java-advanced</module>
     </modules>
 
 
