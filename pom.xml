@@ -25,6 +25,7 @@
         <module>1-kafka-java</module>
         <module>2-kafka-java-advanced</module>
         <module>3-kafka-streams</module>
+        <module>3-kafka-balance-app</module>
     </modules>
 
 
